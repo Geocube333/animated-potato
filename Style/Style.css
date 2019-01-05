@@ -1,3 +1,8 @@
 body {
   background-color: red;
+  font-family: "New Courier", monospace;
+}
+
+.Title {
+  font-size: 10vw;
 }
