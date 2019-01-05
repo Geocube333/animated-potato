@@ -1,12 +1,12 @@
 body {
   background-image: url("https://geocube333.github.io/animated-potato/Style/Images/D0992AA7-DE79-483F-8A26-0FBF58DBE387.jpeg");
-  background-attatchment: fixed;
+  background-attachment: fixed;
   font-family: "New Courier", monospace;
 }
 
 #Title {
   background-image: url("https://geocube333.github.io/animated-potato/Style/Images/C29988A8-D43A-4AA9-92DA-67C457F61B38.png");
-  background-attactchment: fixed;
+  background-attachment: fixed;
   background-size: cover;
   font-size: 100vw;
 }
