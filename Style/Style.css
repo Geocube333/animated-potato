@@ -5,8 +5,10 @@ body {
 }
 
 .Title {
+  margin: 25px;
+  padding: 0px 10px;
   border-radius: 20px;
-  background-image: url("https://geocube333.github.io/animated-potato/Style/Images/98B6EC11-11D3-41D4-BC84-FBA9D672A688.png");
+  background-image: url("https://geocube333.github.io/animated-potato/Style/Images/6060F69B-CAE0-4E84-9C4D-28B82B60C8BB.png");
   background-size: cover;
   text-align: center;
   font-size: 7vw;
