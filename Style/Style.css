@@ -6,7 +6,6 @@ body {
 
 .Title {
   background-image: url("https://geocube333.github.io/animated-potato/Style/Images/C29988A8-D43A-4AA9-92DA-67C457F61B38.png");
-  background-attachment: fixed;
   background-size: cover;
-  font-size: 100vw;
+  font-size: 10vw;
 }
