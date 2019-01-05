@@ -4,6 +4,13 @@ body {
   font-family: "New Courier", monospace;
 }
 
+.title {
+  margin: 25px;
+  padding: 0px 10px;
+  text-align: left;
+  font-size: 5vw;
+}
+
 #header {
   margin: 25px;
   padding: 0px 10px;
