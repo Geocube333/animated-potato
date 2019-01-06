@@ -4,6 +4,14 @@ body {
   font-family: "New Courier", monospace, Sans-Serif;
 }
 
+#content-area {
+  area: content-area;
+}
+
+#side-bar {
+  area: side-area;
+}
+
 .content {
   margin: 25px;
   border-radius: 20px;
@@ -11,6 +19,13 @@ body {
   background-size: cover;
   padding: 10px;
   font-size: 2vw;
+  grid: 'content-area' 'side-area';
+  grid-gap: .5vw;
+  
+}
+
+.content > div {
+  font-size: 5vw;
 }
 
 #title {
