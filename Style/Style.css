@@ -1,7 +1,7 @@
 body {
   background-image: url("https://geocube333.github.io/animated-potato/Style/Images/D0992AA7-DE79-483F-8A26-0FBF58DBE387.jpeg");
-  background-attachment: fixed;
-  font-family: "New Courier", monospace;
+  background-repeat: repeat;
+  font-family: "New Courier", monospace, Sans-Serif;
 }
 
 .content {
