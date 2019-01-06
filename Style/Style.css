@@ -8,7 +8,8 @@ body {
   border-radius: 20px;
   background-image: url("https://geocube333.github.io/animated-potato/Style/Images/6060F69B-CAE0-4E84-9C4D-28B82B60C8BB.png");
   background-size: cover;
-  font-size: 1vw;
+  padding: 10px;
+  font-size: 2vw;
 }
 
 #title {
