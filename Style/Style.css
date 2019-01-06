@@ -5,26 +5,26 @@ body {
 }
 
 #content-area {
-  area: content-area;
+  grid-area: content-area;
 }
 
 #side-bar {
-  area: side-area;
+  grid-area: side-area;
 }
 
 .content {
+  display: grid;
+  grid: 'content-area side-area';
+  grid-gap: .5vw;
   margin: 25px;
   border-radius: 20px;
   background-image: url("https://geocube333.github.io/animated-potato/Style/Images/6060F69B-CAE0-4E84-9C4D-28B82B60C8BB.png");
   background-size: cover;
   padding: 10px;
-  font-size: 2vw;
-  grid: 'content-area' 'side-area';
-  grid-gap: .5vw;
-  
+  font-size: 2vw; 
 }
 
-.content > div {
+.content > side-bar {
   font-size: 5vw;
 }
 
