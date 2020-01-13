@@ -3,5 +3,9 @@ function TEST() {
 }
 
 function home() {
-  window.location = "https://www.google.com";
+  window.location = "http://www.animated-potato.tk/";
+}
+
+function music() {
+  window.location = "http://www.animated-potato.tk/";
 }
