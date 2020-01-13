@@ -7,5 +7,5 @@ function home() {
 }
 
 function music() {
-  window.location = "http://www.animated-potato.tk/";
+  window.location = "http://www.animated-potato.tk/htmls/music.html";
 }
